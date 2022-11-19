@@ -1,0 +1,42 @@
+﻿[
+    {
+        "idFaction": 101,
+        "idUnit": 101,
+        "name": "Bloodwrack Medusa",
+        "cost": 275,
+        "image": "assets/images/bloodwrack-shrine.jpg",
+        "rating": 10 
+    },
+    {
+        "idFaction": 101,
+        "idUnit": 102,
+        "name": "Handmaiden",
+        "cost": 125,
+        "image": "assets/images/handmaiden.jpg",
+        "rating": 10
+    },
+    {
+        "idFaction": 101,
+        "idUnit": 103,
+        "name": "Hag Queen",
+        "cost": 130,
+        "image": "assets/images/hag-queen.jpg",
+        "rating": 10
+    },
+    {
+        "idFaction": 101,
+        "idUnit": 104,
+        "name": "Gorgai",
+        "cost": 255,
+        "image": "assets/images/gorgai.jpg",
+        "rating": 10
+    },
+    {
+        "idFaction": 101,
+        "idUnit": 105,
+        "name": "Slaughter Queen",
+        "cost": 160,
+        "image": "assets/images/slaughter-queen.jpg",
+        "rating": 10
+    }
+]
