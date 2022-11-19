@@ -3,6 +3,8 @@ import 'warhammer_info.dart';
 import 'warhammer_mini.dart';
 import 'warhammer_functions.dart';
 
+// Main Function
+
 void main() {
   runApp(const WarhammerApp());
 }
