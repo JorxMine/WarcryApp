@@ -9,6 +9,8 @@ void main() {
   runApp(const WarhammerApp());
 }
 
+// Global Variables
+
 var isDataNew = DataChange();
 var unitChoosed = UnitChoosed();
 var functions = Functions();
